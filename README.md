@@ -45,4 +45,4 @@ If you're hiring or collaborating on early-career cyber roles, feel free to conn
 
 ---
 
-**Let’s connect**: [LinkedIn](www.linkedin.com/in/corinnediorio2015) | **Certifications**: Google Cybersecurity | Studying: CompTIA Security+
+**Let’s connect**: [LinkedIn](https://www.linkedin.com/in/corinnediorio2015) | **Certifications**: Google Cybersecurity | Studying: CompTIA Security+
