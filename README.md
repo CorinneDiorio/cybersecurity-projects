@@ -1,10 +1,10 @@
-# 🧠 Cybersecurity Projects Portfolio
+# Cybersecurity Projects Portfolio
 
 Welcome to my cybersecurity portfolio! This repository showcases a collection of hands-on assignments and reports completed as part of my transition into the cybersecurity field. Each project demonstrates foundational knowledge in system hardening, vulnerability assessments, incident handling, and Linux administration. My goal is to continue expanding this portfolio as I grow in my role as an entry-level SOC analyst or threat detection & response professional.
 
 ---
 
-## 🔐 Projects Included
+## Projects Included
 
 ### 1. [DDoS Incident Report](./DDoS_Incident_Report.md)
 Analyzes a distributed denial of service (DDoS) attack involving ICMP packet flooding. Includes NIST framework application across all five phases: Identify, Protect, Detect, Respond, and Recover.
@@ -24,7 +24,7 @@ Documents how to audit and adjust file and directory permissions using `ls -la` 
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **Wireshark**
 - **Suricata**
@@ -34,7 +34,7 @@ Documents how to audit and adjust file and directory permissions using `ls -la` 
 
 ---
 
-## 🎯 Career Focus
+## Career Focus
 
 I’m pursuing opportunities in:
 - Security Operations Center (SOC) Analysis
@@ -45,4 +45,4 @@ If you're hiring or collaborating on early-career cyber roles, feel free to conn
 
 ---
 
-📫 **Let’s connect**: [LinkedIn](https://www.linkedin.com) | **Certifications**: Google Cybersecurity | Studying: CompTIA Security+
+**Let’s connect**: [LinkedIn](https://www.linkedin.com) | **Certifications**: Google Cybersecurity | Studying: CompTIA Security+
